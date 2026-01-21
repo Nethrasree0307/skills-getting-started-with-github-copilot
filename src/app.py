@@ -39,6 +39,12 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+    },
+    "Art Class": {
+        "description": "Learn painting and drawing techniques",
+        "schedule": "Wednesdays, 1:00 PM - 2:30 PM",
+        "max_participants": 15,
+        "participants": ["lucas@mergington.edu", "ava@mergington.edu"]
     }
 }
 
